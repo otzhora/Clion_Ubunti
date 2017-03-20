@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Exo_server.dir/main.cpp.o  -o Exo_server 
